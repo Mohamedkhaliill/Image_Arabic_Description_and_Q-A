@@ -49,8 +49,8 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Abdelmanemm/Image_arabic_description.git
-    cd Image_arabic_description/App/
+     https://github.com/Mohamedkhaliill/Image_Arabic_Description_and_Q-A.git
+    cd Image_Arabic_Description_and_Q-A/APP/
     ```
     
 2. **Download necessary models**:
